@@ -1,2 +1,2 @@
-# bashrc
-cp bashrc ~/.bashrc
+bashrc <br>
+`cp bashrc ~/.bashrc`
