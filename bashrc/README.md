@@ -1,2 +1,2 @@
-bashrc <br>
-`cp bashrc ~/.bashrc`
+bashrc
+> cp bashrc ~/.bashrc
